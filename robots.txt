@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://crabbrawl.github.io/CrabBrawl/sitemap.xml.gz
