@@ -1,0 +1,15 @@
+input: .
+output: .retype
+url: # Add your website address here
+branding:
+  title: Crab Brawl
+  label: Docs  
+edit:
+  repo: "https://github.com/CrabBrawl/CrabBrawl.git"
+links:
+- text: Game
+  link: https://crabbrawl.ch
+- text: Discord
+  link: https://discord.gg/NejDdjtmQ5
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
