@@ -5,7 +5,7 @@ branding:
   title: Crab Brawl
   label: Docs  
 edit:
-  repo: "https://github.com/CrabBrawl/CrabBrawl.git"
+  repo: github.com/CrabBrawl/CrabBrawl.git
 links:
 - text: Game
   link: https://crabbrawl.ch
