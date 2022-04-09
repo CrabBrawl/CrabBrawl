@@ -30,6 +30,6 @@ The Ranking System will keep track of your current Crab rank according to every 
 
 Handing out rewards:
 
-Rewards for leagues and ranks will be handed out monthly according to our [Tokenomics](Token.md). 
+Rewards for leagues, Guilwar and ranks will be handed out monthly according to our [Tokenomics](Token.md). 
 
 Additionally to the received $CRAB there will also be several ingame rewards for reaching certain ranks which will be annouced later.
